@@ -1,2 +1,2 @@
 x = lambda a : a+1
-print(x)
+print(x(5))
